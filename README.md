@@ -23,3 +23,7 @@ npx bem-helper
 ```
 
 For more details see [@artprog/bem-helper package](https://www.npmjs.com/package/@artprog/bem-helper)
+
+## BTC Donation
+
+BTC Address: bc1qm395pj4eyqfu7dd2u36hggzjv56j58mppvrna6
