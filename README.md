@@ -1,5 +1,7 @@
 # Frontend template project
 
+Frontend BEM, Scss, Pug, Webpack starter template
+
 ## Install dependencies:
 
 ```bash
